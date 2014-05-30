@@ -1,7 +1,7 @@
 BariCUDA
 ========
 
-License: Attribution - Non-Commercial - Creative Commons
+License: GPL 3.0
 
 BariCUDA -- air pressure driven (read BariC) Universal (it extrudes anything) Degree Amplifier (as in temperature)
 
